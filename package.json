@@ -1,0 +1,29 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "farm start",
+    "start": "farm start",
+    "build": "farm build",
+    "preview": "farm preview",
+    "clean": "farm clean"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "react": "18",
+    "react-bootstrap": "^2.10.4",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "18",
+    "react-hot-toast": "^2.4.1"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "^1.0.2",
+    "@farmfe/core": "^1.2.4",
+    "@farmfe/plugin-react": "^1.1.0",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "core-js": "^3.36.1",
+    "react-refresh": "^0.14.0"
+  }
+}
